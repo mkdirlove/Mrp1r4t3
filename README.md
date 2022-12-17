@@ -7,7 +7,6 @@
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrp1r4t3&layout=compact&langs_count=16&theme=blue-green"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mrp1r4t3&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
-<h2>Some Programming/Scripting Language I Have Used and Learned</h2>
 <p align="left">
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
