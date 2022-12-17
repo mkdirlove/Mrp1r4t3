@@ -1,6 +1,7 @@
-## Hi There, Fellow Coder
-
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=800&pause=500&color=FF0000&background=000000&multiline=true&width=452&lines=printf+'Hi%2C+There%5Cn')](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=3000&color=00FF28&width=700&lines=No+technology+that's+connected+to+internet+is+unhackable.)](https://git.io/typing-svg)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="100"/>
+</div>
 
 <div>
   <a href="https://github.com/Mrp1r4t3">
