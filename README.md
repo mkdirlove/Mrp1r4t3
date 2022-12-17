@@ -1,6 +1,6 @@
 ## Hi There, Fellow Coder
 
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=800&pause=1000&color=FF0000&multiline=true&width=390&height=120&lines=Hacking+others+is+bad;But...;I+was+bullied+a+lot.)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=800&pause=500&color=FF0000&background=000000&multiline=true&width=452&lines=printf+'Hi%2C+There%5Cn')](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/Mrp1r4t3">
