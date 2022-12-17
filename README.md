@@ -1,4 +1,5 @@
-# Hi, Welcome!
+# Hi, There Fellow Hacker / Coder
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=3000&color=00FF28&width=880&lines=No+technology+that's+connected+to+internet+is+unhackable.)](https://git.io/typing-svg)
 <div>
   <a href="https://github.com/Mrp1r4t3">
@@ -15,5 +16,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
+  
   
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
